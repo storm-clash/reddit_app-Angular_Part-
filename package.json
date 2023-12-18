@@ -40,6 +40,8 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-    "typescript": "~5.2.2"
+    "typescript": "~5.2.2",
+    "ngx-webstorage": "13.0.1",
+    "ngx-toastr": "18.0.0"
   }
 }
